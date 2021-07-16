@@ -9,6 +9,7 @@
 
 
 # 1.TEMA
+# TEOREMA DE SUPERPOSICION 
 
 # 2.OBJETIVOS
 . Analizar el Teorema de superposisicon y su aplicacion en el calculo del voltaje e Intensidad en un punto dado.
@@ -30,7 +31,7 @@
 ![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/porcentaje_12.jpg)
 
 # 6.VIDEO
-
+https://www.youtube.com/watch?v=kfrfHkdyJ0g
 
 # 7.CONCLUSIONES 
 
