@@ -27,8 +27,8 @@
 ![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/circuitoslab_12.jpg)
 ![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/circuitoslab_13.jpg)
 ![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/laboratorio1p22_11.jpg)
-![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/laboratorio1p2_12.jpg)
-![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/laboratorio1p2_13.jpg)
+![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/R5circuitos_21.jpg)
+![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/R5circuitos_22.jpg)
 # 5.RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 ![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/porcentaje_11.jpg)
 ![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/porcentaje_12.jpg)
