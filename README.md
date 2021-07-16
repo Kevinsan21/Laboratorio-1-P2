@@ -37,7 +37,7 @@
 https://www.youtube.com/watch?v=kfrfHkdyJ0g
 
 # 7.CONCLUSIONES 
-Se conluyo que al utilizar el teorema de superposicion podemos trabajar con circutos de mas de una fuente de carga conectada a el,pues estos pueden ser separados al momento de sumarlos y se puede dar cuenta que hay una precisión muy grande entre ellos lo cual se puede comproblar en las tablas 4.1 y 4.2
+Se conluyo que al utilizar el teorema de superposicion podemos trabajar con circutos de mas de una fuente de carga conectada a el,pues estos pueden ser separados al momento de sumarlos y se puede dar cuenta que hay una precisión muy grande entre ellos lo cual se puede comprobar en las tablas 4.1 y 4.2
 
 # 8.BIBLIOGRAFIA
 
