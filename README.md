@@ -13,7 +13,8 @@
 
 # 2.OBJETIVOS
 .OBJETIVO GENERAL
-. Analizar el Teorema de superposisicon y su aplicacion en el calculo del voltaje e Intensidad en un punto dado.
+. Analizar el Teorema de superposisicon y su aplicacion en el calculo del voltaje e Intensidad en un punto dado
+
 .OBJETIVO ESPECIFICO 
 . Justificar mediante calculos analiticos y practicos como el teorema de superposicion nos ayuda resolver de una manera mas simplificada el circuito
 
