@@ -37,7 +37,7 @@
 https://www.youtube.com/watch?v=kfrfHkdyJ0g
 
 # 7.CONCLUSIONES 
-
+Se conluyo que al utilizar el teorema de superposicion podemos trabajar con circutos de mas de una fuente de carga conectada a el,pues estos pueden ser separados y al momento de sumarlos y se puede dar cuenta que hay una precisión muy grande entre ellos y lo podemos comprobar con las tablas 4.1 y 4.2
 # 8.BIBLIOGRAFIA
 
 Robbins, A., & Oja, D. (s. f.). Analisis De Circuitos Electricos/ Circuit Analysis: Teoria Y Practica/ Theory and Practice (4 Pap/Cdr ed.) [Libro electrónico]. https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
