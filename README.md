@@ -18,7 +18,9 @@
 
 
 # 4.EXPLICACION DE PROCEDIMIENTO 
-
+![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/circuitoslab_11.jpg)
+![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/circuitoslab_12.jpg)
+![](https://github.com/Kevinsan21/Laboratorio-1-P2-Imagenes-/blob/main/circuitoslab_13.jpg)
 
 # 5.RESPUESTAS A INTERROGANTES Y CALCULO DE ERROR
 
